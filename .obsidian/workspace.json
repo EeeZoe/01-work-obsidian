@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "653b8a916c784c8c",
@@ -156,16 +156,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +179,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2ae068c6c1a289ab",
+  "active": "4759265f1c5ebfc2",
   "lastOpenFiles": [
+    "SQL",
+    "薄荷阅读",
     "未命名.md",
+    "Obsidian 探索教程 - 无代码基础纯新手版/命令符.md",
     "其他",
     "SQL语序",
     "薄荷阅读",
@@ -190,7 +193,6 @@
     "稿件/普利兹克奖的黄昏：人文情怀治不了伪需求.md",
     "Obsidian 探索教程 - 无代码基础纯新手版/Github 上不去怎么办？.md",
     "Obsidian 探索教程 - 无代码基础纯新手版/Obsidian 教程探索2：图床搭建.md",
-    "Obsidian 探索教程 - 无代码基础纯新手版/命令符.md",
     "Obsidian 探索教程 - 无代码基础纯新手版/Word卡顿后，对于Obsidian的探索：.md",
     "Pasted image 20250314163818.png",
     "Obsidian 探索教程 - 无代码基础纯新手版",
